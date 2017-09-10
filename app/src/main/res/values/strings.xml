@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Pet Link</string>
+
+    <!-- Facebook -->
+    <string name="facebook_app_id">1896747267243719</string>
+    <string name="fb_login_protocol_scheme">fb1896747267243719</string>
+
+    <!-- Exemplos de nomenclatura de tag -->
+    <string name="error_message_network">Network error</string>
+    <string name="error_message_call">Call failed</string>
+    <string name="error_message_map">Map loading failed</string>
+
+    <!-- Buttons text -->
+    <string name="button_login_facebook">Facebook</string>
+    <string name="button_login_google">Google +</string>
+
+    <!-- EditText text -->
+    <string name="edittxt_hint_login">E-mail</string>
+    <string name="edittxt_hint_senha">Senha</string>
+
+    <!-- TextView text -->
+    <string name="txtview_cadastro_botão">Não possui conta? Cadastre-se.</string>
+
+    <!-- titles text -->
+    <string name="title_activity_news_">News_Activity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Tab Title text -->
+    <string name="tab_title_newpets">Novos Pets</string>
+    <string name="tab_title_lostpets">Perdidos</string>
+    <string name="tab_title_petshop">Loja Pet</string>
+    <string name="tab_title_pettips">Dicas</string>
+</resources>
